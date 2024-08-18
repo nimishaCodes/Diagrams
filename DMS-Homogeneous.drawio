@@ -15,10 +15,10 @@
         <mxCell id="Wj1ZR2QAlu0UvhN4bANK-1" value="Replication Instance" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="398.25" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wj1ZR2QAlu0UvhN4bANK-2" value="Populated Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Wj1ZR2QAlu0UvhN4bANK-2" value="Populated&lt;div&gt;Database&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MySQL&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wj1ZR2QAlu0UvhN4bANK-3" value="Blank Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Wj1ZR2QAlu0UvhN4bANK-3" value="Blank Database&lt;div&gt;&lt;br&gt;&lt;div&gt;MySQL&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wj1ZR2QAlu0UvhN4bANK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="Wj1ZR2QAlu0UvhN4bANK-4">
